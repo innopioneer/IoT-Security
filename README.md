@@ -1,25 +1,29 @@
-##Overview
+Recent advances on mobile computing, wireless communications, software and hardware have revolutionized the way of human-computer interaction. The Internet of Things (IoT), which is the major applications to this area, provide a platform integrated with smart end devices and shared sever, and make our life more convenient. However, frequently information exchanges between devices and human also increase the vulnerability to security attacks. Successful attacks targeted to IoT devices are not only invasive to user privacy, but also leading to malfunction of devices and control systems with severe financial, environmental and health losses. The goal of the 2017 IoT Security workshop is to bring together internationally leading academic and industrial researchers in an effort to identify and discuss the major technical challenges and recent results aimed at addressing all aspects of security and privacy for IoT.
 
-The explosive growth of network traffic poses severe pressure on the Internet service providers to better manage their finite network resources. The diverse application requirements further stimulate the eager demand for the capacity of an intelligent network which can optimize for the diverse goals of individual application (e.g., throughput- or deadline-sensitive) as well as improve the overall network utilization. Application-driven networks, the new generation of intelligent and multi-tenant networks come with various promises in addressing the problems but also raise several new challenges in the area, including resource virtualization, network states measurement, efficient network control, Internet architecture implications, and etc.
+Topics of Interest
+------------------
 
-This trend towards application-driven networks, called ADN, is gaining popularity in the telecommunication industry as well as in academia. Yet, this paradigm shift is at a very early stage and many interesting questions remain open in this regard. The ADN workshop will serve as an avenue to showcase and discuss ongoing work in this space from both academia and industry and to identify key challenges and potential solutions, with the ultimate goal of providing a roadmap for practical deployment in operational networks.
-
-##Topics of Interest
-
-We encourage the submission of work-in-progress papers in the area of application-driven networking, implementation, measurement, management, deployment, as well as Internet architecture implications. We look for submissions of previously unpublished work on topics including, but not limited to, the following:
-
-Future Internet architecture design
-Network measurement
-Network resource virtualization and management
-Network performance modeling and optimization
-Network intelligence
-Business models for service providers
-Traffic classification and QoE models
-Application-aware scheduling
-Novel Network/Transport layer protocols
-Important Dates
-Paper submission: July 21, 2016 (23:59 EDT) Notification of decision: August 21, 2016 Camera-ready: September 2, 2016 (23:59 EDT)
-
-##Paper Submission-Publication
-
-Submissions must be original, unpublished work, not under consideration at another venue. Each submission must be a single PDF file no longer than six (6) pages in length (in two-column, 10-point format) including references, following the provided LaTeX style file. Papers should be submitted electronically via the submission site. Papers must exclude the author name and affiliation for double-blind peer reviewing by the program committee. Please upload your submissions to the workshop submission page. Authors are expected to present accepted papers in the workshop, and at least one author is required to register in order for the paper to appear in the proceedings and the IEEE digital library.
+Topics of interest include, but are not limited to:
+	*Security, Privacy and Trust for IoT and CPS Systems
+	*Secure IoT and CPS architectures 
+	*Security vulnerabilities in IoT and CPS systems
+	Detecting and preventing attacks in IoT devices and CPS systems
+	Evaluation of the Threats, Attacks and Risks in IoT and cyber-physical devices
+	Data Security and Privacy in the IoT 
+	Game theory for IoT and CPS security
+	Security and Privacy in IoT applications and services (health care, smart cities, smart grid, safety and surveillance systems, etc.)
+	Security and Privacy for RFID, sensors, actuator technologies
+	Security in Smart Grids and Smart Spaces
+	Network-distributed signal processing for security solutions in CPS
+	Joint security and privacy aware protocol design
+	Test-bed and performance metrics of security solutions in CPS
+	Deployment and performance studies of secure CPS
+	Secure network control systems for CPS applications
+	Secure implementation of cyber-physical systems
+	Architectures for secure hardware/software CPS systems
+ 
+Important Dates:
+	Paper Submission Deadline:
+	Acceptance Notification:
+	Camera Ready:
+	Workshop Date: 15 December, 2017
