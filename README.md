@@ -1,4 +1,6 @@
-# Background
+# News
+
+# Overview
 
 Recent advances on mobile computing, wireless communications, software and hardware have revolutionized the way of human-computer interaction. The Internet of Things (IoT), which is the major applications to this area, provide a platform integrated with smart end devices and shared sever, and make our life more convenient. However, frequently information exchanges between devices and human also increase the vulnerability to security attacks. Successful attacks targeted to IoT devices are not only invasive to user privacy, but also leading to malfunction of devices and control systems with severe financial, environmental and health losses. The goal of the 2017 IoT Security workshop is to bring together internationally leading academic and industrial researchers in an effort to identify and discuss the major technical challenges and recent results aimed at addressing all aspects of security and privacy for IoT.
 
@@ -27,3 +29,14 @@ Topics of interest include, but are not limited to:
 - Acceptance Notification:
 - Camera Ready:
 - Workshop Date: 15 December, 2017
+
+# Workshop Organizers
+
+## Program Co-Chairs
+
+## Program Committee
+
+
+# Workshop Program
+-----------------
+
