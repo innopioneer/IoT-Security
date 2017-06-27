@@ -4,8 +4,11 @@ Topics of Interest
 ------------------
 
 Topics of interest include, but are not limited to:
-	*Security, Privacy and Trust for IoT and CPS Systems
-	*Secure IoT and CPS architectures 
+
+	+Security, Privacy and Trust for IoT and CPS Systems
+	
+	+Secure IoT and CPS architectures 
+	
 	*Security vulnerabilities in IoT and CPS systems
 	Detecting and preventing attacks in IoT devices and CPS systems
 	Evaluation of the Threats, Attacks and Risks in IoT and cyber-physical devices
