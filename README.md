@@ -24,10 +24,10 @@ Topics of interest include, but are not limited to:
 - Deployment and performance studies of secure CPS
  
 # Important Dates
-- Paper Submission Deadline:
-- Acceptance Notification:
-- Camera Ready:
-- Workshop Date: 15 December, 2017
+- Paper Submission Deadline: September 10, 2017
+- Acceptance Notification: September 15, 2017
+- Camera Ready: October 10, 2017
+- Workshop Date: December 15, 2017
 
 # Public Issue
 This symposium takes place in conjunction with The 23nd IEEE International Conference on Parallel and Distributed Systems. Papers must be unpublished and must not be submitted for publication elsewhere. All papers will be reviewed by Program Committee members and other experts active in the field to ensure high quality and relevance to the conference. Submissions should include author information, abstract, 5-10 keywords, and be in PDF format. Each submission must not exceed 6 pages in the IEEE 8.5" x 11" two-column format with 10 point font, including tables, figures and references. Template formatting is located at http://www.ieee.org/conferences_events/conferences/publishing/templates.html. The final version will be limited to 4 pages in IEEE proceeding format for conference papers. Up to 2 extra pages may be purchased.
